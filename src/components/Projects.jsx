@@ -20,8 +20,8 @@ const projects = [
     emoji: '📊', title: 'Crud App', type: 'Full Stack', color: '#f59e0b',
     desc: 'featrued with crud operations using mongoDB atlas.',
     tags: ['ReactJs','CSS','NodeJs','ExpressJs','MongoDB Atlas'],
-    sourceCode:'#',
-    liveDemo:'#'
+    sourceCode:'https://github.com/mudasir687abbas/mern-crude.git',
+    liveDemo:'https://mern-crude-frontend.vercel.app/'
   },
   {
       emoji: '🔐', title: 'Auth Login Logut Portal', type: 'Full Stack', color: '#22d3ee',
