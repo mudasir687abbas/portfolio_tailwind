@@ -6,8 +6,8 @@ const projects = [
     emoji: '🌐', title: 'Portfolio', type: 'Frontend', color: '#8b5cf6',
     desc: 'Personal portfolio with glassmorphism, animated skill bars, scroll animations, and full responsiveness.',
     tags: ['React','TailwindCss','Framer Motion'],
-    sourceCode:'https://github.com/mudasir687abbas/mudasir_portfolio.git',
-    liveDemo:'https://mudasir-portfolio-liard.vercel.app'
+    sourceCode:'https://github.com/mudasir687abbas/portfolio_tailwind.git',
+    liveDemo:'https://portfolio-tailwind-dun.vercel.app/'
   },
   {
     emoji: '📊', title: 'To Do List', type: 'Frontend', color: '#f59e0b',
