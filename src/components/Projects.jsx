@@ -35,7 +35,7 @@ const projects = [
     desc: 'Featured with landing page with progress, tokken customization, winner and drawn detection, reset game with animations',
     tags: ['ReactJs','CSS(animations)'],
     sourceCode:'https://github.com/mudasir687abbas/mtictactoe_game.git',
-    liveDemo:'https://github.com/mudasir687abbas/mtictactoe_game.git'
+    liveDemo:'https://mtictactoe-game.vercel.app/'
   },
   
 ];
