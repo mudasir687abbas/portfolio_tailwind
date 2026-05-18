@@ -113,7 +113,7 @@ export default function Projects() {
                 </div>
                 <div className="flex gap-2">    
                   <a href={p.liveDemo} target='_blank' className='text-white hidden md:flex items-center gap-2 hover:bg-gradient-to-r hover:from-cyan-500 hover:to-violet-600 font-dm font-bold text-sm px-5 py-2 rounded-full hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/30 transition-all duration-300'>Live Demo</a>
-                  <a hrg={p.sourceCode}target='_blank'className='text-white hidden md:flex items-center gap-2 hover:bg-gradient-to-r hover:from-cyan-500 hover:to-violet-600 font-dm font-bold text-sm px-5 py-2 rounded-full hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/30 transition-all duration-300'>Source Code</a>
+                <a href={p.sourceCode}target='_blank'className='text-white hidden md:flex items-center gap-2 hover:bg-gradient-to-r hover:from-cyan-500 hover:to-violet-600 font-dm font-bold text-sm px-5 py-2 rounded-full hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/30 transition-all duration-300'>Source Code</a>
                 </div>
         
               </div>
